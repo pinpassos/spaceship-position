@@ -1,6 +1,8 @@
 # spaceship-position
 Project developed to study some functions of the pygame library.
+
 some images of project working
+
 ## initial position
 ![Screenshot](initial.png)
 ## max bottom position
